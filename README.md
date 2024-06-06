@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate python developer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/ebifredrickemma" target="blank"><img src="https://img.shields.io/twitter/follow/ebifredrickemma?logo=twitter&style=for-the-badge" alt="ebifredrickemma" /></a> </p>
-
 - ⚡ Fun fact **I think I am funny and smart**
 
 <h3 align="left">Connect with me:</h3>
