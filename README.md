@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate python developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **my portfolio projects**
+- 🔭 I’m currently working on [my portfolio projects](https://github.com/Manuel-7tin/PortfolioProjects)
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on **my framework projects**
+- 👯 I’m looking to collaborate on [my framework project](https://d2x3xhvgiqkx42.cloudfront.net/12345678-1234-1234-1234-1234567890ab/9432a2ad-f01d-4a3d-ae53-370c37e15e62/2018/01/16/4b638361-3888-4e77-b1ea-af956fa98d7f.png)
 
-- 🤝 I’m looking for help with **getting a paid internship**
+- 🤝 I’m looking for help with [getting a paid internship](https://www.linkedin.com/in/ebi-emmanuel/)
 
 - 💬 Ask me about **anything python 😉**
 
