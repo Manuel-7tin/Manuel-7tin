@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A passionate python developer from Nigeria</h3>
 
-- ⚡ Fun fact **I think I am funny and smart**
+- 🔭 I’m currently working on **my portfolio projects**
+
+- 🌱 I’m currently learning **Data Science and Machine Learning**
+
+- 👯 I’m looking to collaborate on **my framework projects**
+
+- 🤝 I’m looking for help with **getting a paid internship**
+
+- 💬 Ask me about **anything python 😉**
+
+- 📫 How to reach me **ebifredrick07@gmail.com**
+
+- ⚡ Fun fact **I am pseudi-tetralingual🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
