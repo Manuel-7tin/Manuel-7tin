@@ -28,4 +28,6 @@
 <a href="https://www.leetcode.com/emmablity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emmablity" height="30" width="40" /></a>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuel-7tin&show_icons=true&locale=en&layout=compact" alt="manuel-7tin" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuel-7tin&" alt="manuel-7tin" /></p>
