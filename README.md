@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">A passionate python developer working towards Data Science</h3>
+<h3 align="center">A passionate python developer working towards Machine Learning</h3>
 
 - 🔭 I’m currently working on [my portfolio projects](https://github.com/Manuel-7tin/PortfolioProjects)
 
