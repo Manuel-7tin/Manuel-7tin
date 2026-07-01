@@ -26,6 +26,11 @@
 <a href="http://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon web service" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> </a></p>
 
+[![Manuel-7tin's GitHub | Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manuel-7tin&theme=github_dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manuel-7tin&theme=github_dark)
+[![Manuel-7tin's GitHub | Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manuel-7tin&theme=default&utcOffset=1)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manuel-7tin&theme=default&utcOffset=1)
+[![Manuel-7tin's GitHub | Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manuel-7tin&theme=default)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manuel-7tin&theme=default)
+
+
 [![Manuel-7tin's GitHub | Stats](https://stats.quine.sh/Manuel-7tin/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Manuel-7tin)
 [![Manuel-7tin's GitHub | Languages Over Time](https://stats.quine.sh/Manuel-7tin/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Manuel-7tin)
 
