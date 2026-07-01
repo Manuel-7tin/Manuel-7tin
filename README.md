@@ -31,9 +31,6 @@
 [![Manuel-7tin's GitHub | Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manuel-7tin&theme=default)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manuel-7tin&theme=default)
 
 
-[![Manuel-7tin's GitHub | Stats](https://stats.quine.sh/Manuel-7tin/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Manuel-7tin)
-[![Manuel-7tin's GitHub | Languages Over Time](https://stats.quine.sh/Manuel-7tin/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Manuel-7tin)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ebifredrickemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ebifredrickemma" height="30" width="40" /></a>
